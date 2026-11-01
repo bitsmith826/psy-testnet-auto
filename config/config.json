@@ -1,0 +1,24 @@
+{
+  "invite_code": "",
+  "api_base_url": "https://member-api.psy.xyz",
+  "portal_url": "https://psy.xyz/psychonaut",
+  "sepolia_rpc": "https://ethereum-sepolia-rpc.publicnode.com",
+  "psy_staging_rpc": "https://rpc-eth-stg.psy-protocol.xyz",
+  "delay_between_tasks": 3,
+  "delay_between_accounts": 5,
+  "loop_interval_hours": 24,
+  "auto_bind_invite": true,
+  "auto_set_username": true,
+  "auto_check_in": true,
+  "auto_submit_social_tasks": true,
+  "auto_claim_sepolia_faucet": true,
+  "loop_mode": false,
+  "contracts": {
+    "sepolia": {
+      "faucet_manager": "0x45C75b923d48A58575e38D77ffDdF132277d7Ad9",
+      "usdt_token": "0x58869e0a2Ef41aB08D2669B0e8508A29A9DE1cE7",
+      "psy_token": "0x625b5b6239074FA9B4325Bc1e5535E7dAB23459f",
+      "bridge": "0xb133107eEA4D9B255e9721EE2cACaB56747eEeBd"
+    }
+  }
+}

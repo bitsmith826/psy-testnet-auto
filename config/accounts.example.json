@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "Account-1",
+    "private_key": "0x1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef",
+    "jwt_token": "",
+    "proxy": ""
+  }
+]

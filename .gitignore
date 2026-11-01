@@ -1,0 +1,27 @@
+# Credentials and Accounts (CRITICAL SECURITY)
+keys.txt
+config/accounts.json
+.env
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Logs & Temporary files
+*.log
+scratch/
+debug_*.py
+inspect_*.py
+
+# System
+.DS_Store
+Thumbs.db
